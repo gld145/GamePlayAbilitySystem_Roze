@@ -1,36 +1,3 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-
-# Unreal Engine Folders
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
-
-# Build artifacts
-*.pdb
-*.exe
-*.dll
-*.obj
-
-# Visual Studio files
-.vscode/
-*.vcxproj*
-*.sln
-*.suo
-*.opensdf
-*.opendb
-
-# MacOS files
-.DS_Store
-
-# Backup files
-*.bak
-*.tmp
-
-# Other system files
-Thumbs.db
-
-# Git-specific files
-.git/
